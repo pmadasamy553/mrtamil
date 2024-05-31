@@ -1,2 +1,3 @@
 # mrtamil
-studio
+npm install 
+npm start
